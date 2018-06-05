@@ -7,7 +7,7 @@ once in view a secondary click returns the photo to the pile.
 Thumbnails are draggable, enhancing the experience by allowing photos
 buried deep in the pile to be uncovered.
 
-**Demo:** [bri.how/project/photopile/demo.html](bri.how/project/photopile/demo.html)
+**Demo:** [http://bri.how/project/photopile/demo.html](http://bri.how/project/photopile/demo.html)
 
 Usage
 -----
@@ -35,14 +35,14 @@ Add gallery markup:
         <!-- Add as many list items as you require for your gallery :) -->
       </div>
     </div>
-    
+
 And script:
 
     PhotoPile({
       OPTION: VALUE,
       ...
     }).scatter()
-    
+
 Optionables here (with default values):
 
     // Thumbnails
@@ -53,7 +53,7 @@ Optionables here (with default values):
     thumbBorderColor:   'white',    // border color
     thumbBorderHover:   '#EAEAEA',  // border hover color
     draggable:          true,       // enable draggable thumbnails
-     
+
     // Photo container
     fadeDuration:       200,        // speed at which photo fades (ms)
     pickupDuration:     500,        // speed at which photo is picked up & put down (ms)
@@ -61,11 +61,11 @@ Optionables here (with default values):
     photoBorder:        10,         // border width around fullsize image
     photoBorderColor:   'white',    // border color
     showInfo:           true,       // include photo description (alt tag) in photo container
-     
+
     // Autoplay
     autoplayGallery:    false,      // autoplay the photopile
     autoplaySpeed:      5000,       // ms
-     
+
     // Images
     loading:            'images/loading.gif'  // path to img displayed while gallery/thumbnails loads
 
