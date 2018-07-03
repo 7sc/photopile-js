@@ -1,5 +1,5 @@
 
-![](https://image.ibb.co/n9O1Py/photopile_preview.jpg)
+![](https://image.ibb.co/j0DbPy/photopile_preview_small.jpg)
 
 Photopile JS
 ------------
