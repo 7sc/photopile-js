@@ -1,5 +1,8 @@
+
+![](https://image.ibb.co/n9O1Py/photopile_preview.jpg)
+
 Photopile JS
-============
+------------
 **Photopile JS** is a JavaScript/jQuery image gallery that simulates
 a pile of photos scattered about on a surface. Thumbnail clicks remove photos
 from the pile, *(enlarging them as if being picked up by the user)*, and
