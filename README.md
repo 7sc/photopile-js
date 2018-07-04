@@ -11,7 +11,7 @@ once in view a secondary click returns the photo to the pile.
 Thumbnails are draggable, enhancing the experience by allowing photos
 buried deep in the pile to be uncovered.
 
-**Demo:** [https://bri.how/project/photopile/demo.html](https://bri.how/project/photopile/demo.html)
+**Demo:** [https://bri.how/project/photopile/demo.html](https://bri.how/projects/photopile/demo.html)
 
 Usage
 -----
